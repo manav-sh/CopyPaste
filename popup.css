@@ -1,0 +1,15 @@
+body {
+    height: 400px;
+    width: 400px;
+}
+
+.clipboard {
+    border-radius: 10;
+    border: 1px solid #d4d4d4;
+}
+
+.clipboard:focus {
+    outline: none;
+    box-shadow: 0 0 1px 1px #406ed1;
+    border-radius: 10;
+}
